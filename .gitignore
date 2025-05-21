@@ -125,6 +125,12 @@ dist
 # TernJS port file
 .tern-port
 
+# React build output
+/frontend/build
+
+#VSCode settings (just in case)
+.vscode/
+
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
